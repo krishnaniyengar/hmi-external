@@ -137,51 +137,5 @@
             "title": "login",
             "layoutProperties": null
         }
-    },
-    "dashboard": {
-        "headerField": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/header.field.json"
-        },
-        "headerSection": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/header.section.json"
-        },
-        "field": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/body.field.json"
-        },
-        "section": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/body.section.json"
-        },
-        "footerField": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/footer.field.json"
-        },
-        "footerSection": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/footer.section.json"
-        },
-        "data": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/body.data.json"
-        },
-        "navField": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/nav.field.json"
-        },
-        "navSection": {
-            "fetchFromLocal": true,
-            "localURL": "./assets/pageLayout/krish-project/dashboard/nav.section.json"
-        },
-        "authGuardConfig": {
-            "enabled": false,
-            "conditions": []
-        },
-        "globalPageSettings": {
-            "title": "dashboard",
-            "layoutProperties": null
-        }
     }
 }
