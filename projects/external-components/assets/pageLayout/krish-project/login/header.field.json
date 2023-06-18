@@ -1,0 +1,57 @@
+{
+    "dnd-0": [
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "dnd-1"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [
+                {
+                    "event": "",
+                    "actions": []
+                }
+            ],
+            "expressionProperties": {},
+            "value": null
+        },
+        {
+            "baseProperties": {
+                "type": "radio",
+                "id": "dnd-2"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [
+                {
+                    "event": "",
+                    "actions": []
+                }
+            ],
+            "expressionProperties": {},
+            "optionList": null,
+            "displayKey": null,
+            "outputKey": null,
+            "value": null
+        }
+    ]
+}
